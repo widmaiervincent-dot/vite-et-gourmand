@@ -1,0 +1,5 @@
+# on interdit l'accès direct aux dossiers sensibles
+RedirectMatch 403 ^/(config|includes|sql|vendor)/
+RedirectMatch 403 /(composer\.(json|lock)|Dockerfile|fly\.toml|README\.md)$
+
+Options -Indexes
