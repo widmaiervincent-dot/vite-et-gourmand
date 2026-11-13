@@ -1,0 +1,14 @@
+app = "vite-et-gourmand"
+primary_region = "cdg"
+
+[build]
+
+[env]
+  URL_SITE = "https://vite-et-gourmand.fly.dev"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0

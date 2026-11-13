@@ -1,0 +1,104 @@
+/* ===== Charte graphique Vite & Gourmand =====
+   bleu nuit      : #2c3e50
+   orange         : #e67e22
+   orange foncé   : #ba4a00  (boutons, texte blanc dessus)
+   gris clair     : #f5f5f5
+   texte          : #333333
+   polices        : Poppins (titres) / Roboto (texte)
+*/
+
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+h1, h2, h3, .titre-logo {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 600;
+}
+
+.bg-bordeaux {
+    background-color: #2c3e50;
+}
+
+.text-bordeaux {
+    color: #2c3e50;
+}
+
+.btn-bordeaux {
+    background-color: #ba4a00;
+    color: #fff;
+    border: none;
+}
+
+.btn-bordeaux:hover,
+.btn-bordeaux:focus {
+    background-color: #a04000;
+    color: #fff;
+}
+
+.btn-dore {
+    background-color: #e67e22;
+    color: #1c1c1c;
+    border: none;
+}
+
+.btn-dore:hover {
+    background-color: #d35400;
+}
+
+/* bien voir le focus au clavier (accessibilité) */
+a:focus, button:focus, input:focus, select:focus, textarea:focus {
+    outline: 3px solid #e67e22;
+    outline-offset: 2px;
+}
+
+.banniere {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/banniere.jpg') center/cover;
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 80px 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.carte-menu {
+    border: 1px solid #dddddd;
+    height: 100%;
+}
+
+.carte-menu img {
+    height: 200px;
+    object-fit: cover;
+    background-color: #d9d9d9;
+}
+
+.conditions-menu {
+    background-color: #fdebd0;
+    border-left: 6px solid #e67e22;
+    padding: 15px;
+    font-weight: 500;
+}
+
+.etoiles {
+    color: #e67e22;
+}
+
+/* sur mobile, les textes cachés (visually-hidden) des tableaux dépassaient de la page
+   et créaient un défilement horizontal : on les garde dans le bloc du tableau */
+.table-responsive {
+    position: relative;
+}
+
+.badge-statut {
+    background-color: #2c3e50;
+}
+
+.galerie img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 6px;
+    background-color: #d9d9d9;
+}
