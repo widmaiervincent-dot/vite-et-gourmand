@@ -28,7 +28,7 @@ Il y a aussi un espace pour les employés (commandes, menus, plats, horaires, av
 1. Cloner le projet
 
 ```
-git clone https://github.com/<mon-compte>/vite-et-gourmand.git
+git clone https://github.com/widmaiervincent-dot/vite-et-gourmand.git
 cd vite-et-gourmand
 ```
 
