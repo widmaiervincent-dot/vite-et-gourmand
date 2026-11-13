@@ -1,0 +1,8 @@
+/vendor/
+.env
+/config/config.local.php
+.DS_Store
+.idea/
+.vscode/
+.claude/
+images/menus/menu_*

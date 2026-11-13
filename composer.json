@@ -1,0 +1,9 @@
+{
+    "name": "fastdev/vite-et-gourmand",
+    "description": "Application web du traiteur Vite & Gourmand (ECF DWWM)",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^6.9",
+        "mongodb/mongodb": "^1.19"
+    }
+}
