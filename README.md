@@ -98,7 +98,6 @@ images/               -> images des menus
 includes/             -> header, footer, fonctions et mails
 js/                   -> les scripts
 sql/                  -> scripts de la base de données
-docs/                 -> la documentation en PDF
 ```
 
 ## Sécurité
@@ -128,16 +127,3 @@ fly deploy
 
 La base MySQL est sur Aiven et MongoDB sur MongoDB Atlas (offres gratuites).
 Toutes les étapes sont expliquées dans la documentation technique.
-
-## Documentation
-
-Dans le dossier `docs/` :
-
-- documentation_technique.pdf
-- gestion_de_projet.pdf
-- charte_graphique.pdf
-- manuel_utilisation.pdf
-- copie_ecf.pdf
-- maquettes_figma/ : les maquettes en SVG à importer dans Figma
-- sources_word/ : les documents en Word pour pouvoir les modifier
-- diagrammes/ : les diagrammes
