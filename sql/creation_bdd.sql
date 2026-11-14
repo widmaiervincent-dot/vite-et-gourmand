@@ -131,6 +131,13 @@ CREATE TABLE commande_suivi (
     FOREIGN KEY (commande_id) REFERENCES commande(id) ON DELETE CASCADE
 );
 
+-- sessions PHP (connexions) enregistrées en base au lieu de fichiers sur le serveur
+CREATE TABLE session_php (
+    id VARCHAR(128) PRIMARY KEY,
+    donnees TEXT NOT NULL,
+    date_maj INT NOT NULL
+);
+
 CREATE TABLE avis (
     id INT AUTO_INCREMENT PRIMARY KEY,
     commande_id INT NOT NULL UNIQUE,
