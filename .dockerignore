@@ -1,0 +1,10 @@
+# fichiers qui ne doivent pas partir dans l'image du site en ligne
+.git
+.github
+.claude
+.gitignore
+.dockerignore
+docs
+vendor
+config/config.local.php
+README.md
