@@ -3,3 +3,6 @@ RedirectMatch 403 ^/(config|includes|sql|vendor)/
 RedirectMatch 403 /(composer\.(json|lock)|Dockerfile|fly\.toml|README\.md)$
 
 Options -Indexes
+
+# on interdit aussi les fichiers et dossiers cachés (.git, .gitignore...)
+RedirectMatch 403 /\.
