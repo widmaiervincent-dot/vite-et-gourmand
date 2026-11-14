@@ -5,6 +5,7 @@ primary_region = "cdg"
 
 [env]
   URL_SITE = "https://vite-et-gourmand.fly.dev"
+  DB_SSL = "1"
 
 [http_service]
   internal_port = 8080
