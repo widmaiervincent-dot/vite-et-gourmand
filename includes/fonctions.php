@@ -1,7 +1,14 @@
 <?php
 // fonctions utilisées un peu partout sur le site
 
+require_once __DIR__ . '/../config/bdd.php';
+require_once __DIR__ . '/mail.php';
+require_once __DIR__ . '/session_bdd.php';
+
 if (session_status() === PHP_SESSION_NONE) {
+    // les sessions sont enregistrées en base (voir session_bdd.php)
+    session_set_save_handler(new SessionBdd($bdd), true);
+
     // cookie de session un peu plus sécurisé
     session_set_cookie_params([
         'httponly' => true,
@@ -10,9 +17,6 @@ if (session_status() === PHP_SESSION_NONE) {
     ]);
     session_start();
 }
-
-require_once __DIR__ . '/../config/bdd.php';
-require_once __DIR__ . '/mail.php';
 
 // pour éviter les failles XSS quand on affiche des données
 function e($texte)
