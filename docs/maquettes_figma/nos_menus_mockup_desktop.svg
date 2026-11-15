@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1610" viewBox="0 0 1440 1610">
+<g id="Mockup - Nos menus - Desktop">
+  <rect width="1440" height="1610" fill="#FFFFFF"/>
+  <rect id="Navbar" x="0" y="0" width="1440" height="80" rx="0" fill="#2C3E50"/>
+  <text x="120" y="50" font-family="Poppins" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="1182.0" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Créer un compte</text>
+  <text x="1067.2" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Connexion</text>
+  <text x="970.8000000000001" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Contact</text>
+  <text x="856.0000000000001" y="46" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Nos menus</text>
+  <text x="759.6000000000001" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Accueil</text>
+  <text x="120" y="164" font-family="Poppins" font-size="44" font-weight="700" fill="#2C3E50" text-anchor="start">Nos menus</text>
+  <rect x="120" y="188" width="1200" height="110" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="144" y="224" font-family="Roboto" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Prix maximum (€)</text>
+  <rect x="144" y="232" width="170" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="156" y="258" font-family="Roboto" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">ex : 200</text>
+  <text x="330" y="224" font-family="Roboto" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Fourchette min (€)</text>
+  <rect x="330" y="232" width="150" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="342" y="258" font-family="Roboto" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">min</text>
+  <text x="496" y="224" font-family="Roboto" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Fourchette max (€)</text>
+  <rect x="496" y="232" width="150" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="508" y="258" font-family="Roboto" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">max</text>
+  <text x="662" y="224" font-family="Roboto" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Thème</text>
+  <rect x="662" y="232" width="160" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="674" y="258" font-family="Roboto" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">Tous  ▼</text>
+  <text x="838" y="224" font-family="Roboto" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Régime</text>
+  <rect x="838" y="232" width="160" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="850" y="258" font-family="Roboto" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">Tous  ▼</text>
+  <text x="1014" y="224" font-family="Roboto" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Nb de personnes</text>
+  <rect x="1014" y="232" width="140" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="1026" y="258" font-family="Roboto" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">ex : 8</text>
+  <rect x="1186" y="232" width="110" height="40" rx="6" fill="#FFFFFF" stroke="#2C3E50" stroke-width="2"/>
+  <text x="1241.0" y="257.25" font-family="Roboto" font-size="15" font-weight="600" fill="#2C3E50" text-anchor="middle">Effacer</text>
+  <text x="120" y="328" font-family="Roboto" font-size="15" font-weight="400" fill="#555555" text-anchor="start">6 menus trouvés</text>
+  <rect x="120.0" y="352" width="384.0" height="470" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="120.0" y="352" width="384.0" height="210" rx="4" fill="#D9D9D9"/>
+  <text x="312.0" y="462.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="140.0" y="582" width="48.0" height="24" rx="12" fill="#5D6D7E"/>
+  <text x="164.0" y="599" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Noël</text>
+  <rect x="196.0" y="582" width="85.5" height="24" rx="12" fill="#1E8449"/>
+  <text x="238.75" y="599" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <text x="140.0" y="642" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Menu Réveillon</text>
+  <text x="140.0" y="674.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Un menu de fête autour des grands</text>
+  <text x="140.0" y="696.5" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">classiques de Noël.</text>
+  <text x="140.0" y="724" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 6 personnes</text>
+  <text x="140.0" y="754" font-family="Roboto" font-size="22" font-weight="700" fill="#333333" text-anchor="start">270,00 €</text>
+  <rect x="140.0" y="770" width="344.0" height="40" rx="6" fill="#BA4A00"/>
+  <text x="312.0" y="795.6" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Voir le détail</text>
+  <rect x="528.0" y="352" width="384.0" height="470" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="528.0" y="352" width="384.0" height="210" rx="4" fill="#D9D9D9"/>
+  <text x="720.0" y="462.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="548.0" y="582" width="63.0" height="24" rx="12" fill="#5D6D7E"/>
+  <text x="579.5" y="599" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Pâques</text>
+  <rect x="619.0" y="582" width="85.5" height="24" rx="12" fill="#1E8449"/>
+  <text x="661.75" y="599" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <text x="548.0" y="642" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Menu Pâques Gourmand</text>
+  <text x="548.0" y="674.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Agneau de 7 heures et chocolat pour Pâques.</text>
+  <text x="548.0" y="724" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 4 personnes</text>
+  <text x="548.0" y="754" font-family="Roboto" font-size="22" font-weight="700" fill="#333333" text-anchor="start">160,00 €</text>
+  <rect x="548.0" y="770" width="344.0" height="40" rx="6" fill="#BA4A00"/>
+  <text x="720.0" y="795.6" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Voir le détail</text>
+  <rect x="936.0" y="352" width="384.0" height="470" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="936.0" y="352" width="384.0" height="210" rx="4" fill="#D9D9D9"/>
+  <text x="1128.0" y="462.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="956.0" y="582" width="85.5" height="24" rx="12" fill="#5D6D7E"/>
+  <text x="998.75" y="599" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <rect x="1049.5" y="582" width="85.5" height="24" rx="12" fill="#1E8449"/>
+  <text x="1092.25" y="599" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <text x="956.0" y="642" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Menu Bordelais</text>
+  <text x="956.0" y="674.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Entrecôte bordelaise et cannelés.</text>
+  <text x="956.0" y="724" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 2 personnes</text>
+  <text x="956.0" y="754" font-family="Roboto" font-size="22" font-weight="700" fill="#333333" text-anchor="start">70,00 €</text>
+  <rect x="956.0" y="770" width="344.0" height="40" rx="6" fill="#BA4A00"/>
+  <text x="1128.0" y="795.6" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Voir le détail</text>
+  <rect x="120.0" y="846" width="384.0" height="470" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="120.0" y="846" width="384.0" height="210" rx="4" fill="#D9D9D9"/>
+  <text x="312.0" y="956.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="140.0" y="1076" width="85.5" height="24" rx="12" fill="#5D6D7E"/>
+  <text x="182.75" y="1093" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <rect x="233.5" y="1076" width="93.0" height="24" rx="12" fill="#1E8449"/>
+  <text x="280.0" y="1093" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Végétarien</text>
+  <text x="140.0" y="1136" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Menu Végétarien</text>
+  <text x="140.0" y="1168.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Des produits frais du marché, sans viande.</text>
+  <text x="140.0" y="1218" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 2 personnes</text>
+  <text x="140.0" y="1248" font-family="Roboto" font-size="22" font-weight="700" fill="#333333" text-anchor="start">56,00 €</text>
+  <rect x="140.0" y="1264" width="344.0" height="40" rx="6" fill="#BA4A00"/>
+  <text x="312.0" y="1289.6" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Voir le détail</text>
+  <rect x="528.0" y="846" width="384.0" height="470" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="528.0" y="846" width="384.0" height="210" rx="4" fill="#D9D9D9"/>
+  <text x="720.0" y="956.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="548.0" y="1076" width="85.5" height="24" rx="12" fill="#5D6D7E"/>
+  <text x="590.75" y="1093" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Évènement</text>
+  <rect x="641.5" y="1076" width="55.5" height="24" rx="12" fill="#1E8449"/>
+  <text x="669.25" y="1093" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Vegan</text>
+  <text x="548.0" y="1136" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Menu Vegan Évènement</text>
+  <text x="548.0" y="1168.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Un menu 100% végétal pour vos évènements.</text>
+  <text x="548.0" y="1218" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 10 personnes</text>
+  <text x="548.0" y="1248" font-family="Roboto" font-size="22" font-weight="700" fill="#333333" text-anchor="start">350,00 €</text>
+  <rect x="548.0" y="1264" width="344.0" height="40" rx="6" fill="#BA4A00"/>
+  <text x="720.0" y="1289.6" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Voir le détail</text>
+  <rect x="936.0" y="846" width="384.0" height="470" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="936.0" y="846" width="384.0" height="210" rx="4" fill="#D9D9D9"/>
+  <text x="1128.0" y="956.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="956.0" y="1076" width="85.5" height="24" rx="12" fill="#5D6D7E"/>
+  <text x="998.75" y="1093" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <rect x="1049.5" y="1076" width="85.5" height="24" rx="12" fill="#1E8449"/>
+  <text x="1092.25" y="1093" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <text x="956.0" y="1136" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Menu Famille</text>
+  <text x="956.0" y="1168.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Un repas simple et généreux.</text>
+  <text x="956.0" y="1218" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 4 personnes</text>
+  <text x="956.0" y="1248" font-family="Roboto" font-size="22" font-weight="700" fill="#333333" text-anchor="start">120,00 €</text>
+  <rect x="956.0" y="1264" width="344.0" height="40" rx="6" fill="#BA4A00"/>
+  <text x="1128.0" y="1289.6" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Voir le détail</text>
+  <rect id="Footer" x="0" y="1380" width="1440" height="230" rx="0" fill="#2C3E50"/>
+  <text x="120" y="1430" font-family="Poppins" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="start">Nos horaires</text>
+  <text x="120" y="1462" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Lundi : fermé</text>
+  <text x="120" y="1486" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Mardi - Jeudi : 9h - 18h</text>
+  <text x="120" y="1510" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Vendredi : 9h - 19h</text>
+  <text x="120" y="1534" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Samedi : 10h - 19h</text>
+  <text x="120" y="1558" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Dimanche : 10h - 13h</text>
+  <text x="720.0" y="1430" font-family="Poppins" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="720.0" y="1462" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">12 rue Sainte-Catherine, Bordeaux</text>
+  <text x="720.0" y="1486" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Mentions légales</text>
+  <text x="720.0" y="1510" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Conditions générales de vente</text>
+</g>
+</svg>

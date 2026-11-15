@@ -1,0 +1,56 @@
+graph MCD {
+  graph [rankdir=LR, splines=true, nodesep=0.5, ranksep=0.9, fontname="DejaVu Sans", bgcolor="white", pad=0.2];
+  node  [fontname="DejaVu Sans", fontsize=10];
+  edge  [fontname="DejaVu Sans", fontsize=10, color="#555555"];
+
+  // ---------- entités ----------
+  node [shape=plain];
+  UTILISATEUR [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>UTILISATEUR</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>nom<br align="left"/>prenom<br align="left"/>email<br align="left"/>telephone<br align="left"/>adresse<br align="left"/>code_postal<br align="left"/>ville<br align="left"/>mot_de_passe<br align="left"/>role<br align="left"/>actif<br align="left"/>token_reset<br align="left"/>token_expiration<br align="left"/></td></tr></table>>];
+  COMMANDE [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>COMMANDE</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>numero<br align="left"/>nb_personnes<br align="left"/>adresse_prestation<br align="left"/>ville_prestation<br align="left"/>distance_km<br align="left"/>date_prestation<br align="left"/>heure_livraison<br align="left"/>prix_menu<br align="left"/>reduction<br align="left"/>prix_livraison<br align="left"/>prix_total<br align="left"/>pret_materiel<br align="left"/>statut<br align="left"/>motif_annulation<br align="left"/>mode_contact<br align="left"/>date_commande<br align="left"/></td></tr></table>>];
+  MENU [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>MENU</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>titre<br align="left"/>description<br align="left"/>nb_personnes_min<br align="left"/>prix<br align="left"/>conditions<br align="left"/>stock<br align="left"/></td></tr></table>>];
+  THEME [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>THEME</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>libelle<br align="left"/></td></tr></table>>];
+  REGIME [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>REGIME</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>libelle<br align="left"/></td></tr></table>>];
+  PLAT [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>PLAT</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>nom<br align="left"/>type<br align="left"/>description<br align="left"/></td></tr></table>>];
+  ALLERGENE [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>ALLERGENE</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>libelle<br align="left"/></td></tr></table>>];
+  IMAGE [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>MENU_IMAGE</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>chemin<br align="left"/>texte_alt<br align="left"/></td></tr></table>>];
+  SUIVI [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>COMMANDE_SUIVI</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>statut<br align="left"/>date_modification<br align="left"/></td></tr></table>>];
+  AVIS [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>AVIS</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>note<br align="left"/>commentaire<br align="left"/>statut<br align="left"/>date_avis<br align="left"/></td></tr></table>>];
+  HORAIRE [label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="3" color="#2C3E50">
+    <tr><td bgcolor="#2C3E50"><font color="white"><b>HORAIRE</b></font></td></tr>
+    <tr><td align="left"><u>id</u><br align="left"/>jour<br align="left"/>heure_ouverture<br align="left"/>heure_fermeture<br align="left"/>ferme<br align="left"/></td></tr></table>>];
+
+  // ---------- associations ----------
+  node [shape=ellipse, style=filled, fillcolor="#FDEBD0", color="#E67E22", fontsize=10];
+  passer; concerner; appartenir; suivre; composer; contenir; illustrer; historiser; noter; rediger;
+
+  UTILISATEUR -- passer [label="0,n"];  passer -- COMMANDE [label="1,1"];
+  COMMANDE -- concerner [label="1,1"];  concerner -- MENU [label="0,n"];
+  MENU -- appartenir [label="1,1"];     appartenir -- THEME [label="0,n"];
+  MENU -- suivre [label="1,1"];         suivre -- REGIME [label="0,n"];
+  MENU -- composer [label="1,n"];       composer -- PLAT [label="0,n"];
+  PLAT -- contenir [label="0,n"];       contenir -- ALLERGENE [label="0,n"];
+  MENU -- illustrer [label="0,n"];      illustrer -- IMAGE [label="1,1"];
+  COMMANDE -- historiser [label="1,n"]; historiser -- SUIVI [label="1,1"];
+  COMMANDE -- noter [label="0,1"];      noter -- AVIS [label="1,1"];
+  UTILISATEUR -- rediger [label="0,n"]; rediger -- AVIS [label="1,1"];
+}

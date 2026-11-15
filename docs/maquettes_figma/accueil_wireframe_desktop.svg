@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1530" viewBox="0 0 1440 1530">
+<g id="Wireframe - Accueil - Desktop">
+  <rect width="1440" height="1530" fill="#FFFFFF"/>
+  <rect id="Navbar" x="0" y="0" width="1440" height="80" rx="0" fill="#EEEEEE" stroke="#999999" stroke-width="1"/>
+  <text x="120" y="50" font-family="Inter" font-size="28" font-weight="700" fill="#222222" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="1182.0" y="46" font-family="Inter" font-size="16" font-weight="400" fill="#222222" text-anchor="start">Créer un compte</text>
+  <text x="1067.2" y="46" font-family="Inter" font-size="16" font-weight="400" fill="#222222" text-anchor="start">Connexion</text>
+  <text x="970.8000000000001" y="46" font-family="Inter" font-size="16" font-weight="400" fill="#222222" text-anchor="start">Contact</text>
+  <text x="856.0000000000001" y="46" font-family="Inter" font-size="16" font-weight="400" fill="#222222" text-anchor="start">Nos menus</text>
+  <text x="759.6000000000001" y="46" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="start" text-decoration="underline">Accueil</text>
+  <rect x="120" y="110" width="1200" height="440" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="120" y1="110" x2="1320" y2="550" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="1320" y1="110" x2="120" y2="550" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="720.0" y="536" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">image de fond (photo d&#x27;un buffet)</text>
+  <text x="720.0" y="300.0" font-family="Inter" font-size="56" font-weight="700" fill="#222222" text-anchor="middle">Vite &amp; Gourmand</text>
+  <text x="720.0" y="340.0" font-family="Inter" font-size="22" font-weight="400" fill="#333333" text-anchor="middle">Votre traiteur à Bordeaux depuis 25 ans</text>
+  <rect x="600.0" y="370.0" width="240" height="50" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="720.0" y="400.6" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="middle">Découvrir nos menus</text>
+  <text x="120" y="634" font-family="Inter" font-size="34" font-weight="700" fill="#222222" text-anchor="start">Qui sommes-nous ?</text>
+  <text x="120" y="658.0" font-family="Inter" font-size="16" font-weight="400" fill="#333333" text-anchor="start">Vite &amp; Gourmand c&#x27;est l&#x27;histoire de Julie et José, deux passionnés de cuisine installés à Bordeaux depuis 25 ans. On prépare vos repas pour</text>
+  <text x="120" y="682.0" font-family="Inter" font-size="16" font-weight="400" fill="#333333" text-anchor="start">tous vos évènements : Noël en famille, Pâques, anniversaire ou séminaire d&#x27;entreprise. Nos menus changent selon les saisons.</text>
+  <text x="120" y="780.0" font-family="Inter" font-size="34" font-weight="700" fill="#222222" text-anchor="start">Une équipe de professionnels</text>
+  <rect x="120.0" y="804.0" width="384.0" height="170" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="140.0" y="824.0" width="48" height="48" rx="24" fill="#D9D9D9" stroke="#999999" stroke-width="1"/>
+  <text x="140.0" y="904.0" font-family="Inter" font-size="19" font-weight="700" fill="#222222" text-anchor="start">25 ans d&#x27;expérience</text>
+  <text x="140.0" y="932.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Plus de 25 ans à régaler les Bordelais.</text>
+  <rect x="528.0" y="804.0" width="384.0" height="170" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="548.0" y="824.0" width="48" height="48" rx="24" fill="#D9D9D9" stroke="#999999" stroke-width="1"/>
+  <text x="548.0" y="904.0" font-family="Inter" font-size="19" font-weight="700" fill="#222222" text-anchor="start">Produits frais</text>
+  <text x="548.0" y="932.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Producteurs locaux et marché des Capucins.</text>
+  <rect x="936.0" y="804.0" width="384.0" height="170" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="956.0" y="824.0" width="48" height="48" rx="24" fill="#D9D9D9" stroke="#999999" stroke-width="1"/>
+  <text x="956.0" y="904.0" font-family="Inter" font-size="19" font-weight="700" fill="#222222" text-anchor="start">Livraison soignée</text>
+  <text x="956.0" y="932.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">A l&#x27;heure que vous voulez à Bordeaux et</text>
+  <text x="956.0" y="954.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">autour.</text>
+  <text x="120" y="1062.0" font-family="Inter" font-size="34" font-weight="700" fill="#222222" text-anchor="start">Ce que pensent nos clients</text>
+  <rect x="120.0" y="1086.0" width="384.0" height="150" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="140.0" y="1122.0" font-family="Inter" font-size="22" font-weight="400" fill="#666666" text-anchor="start">★★★★★</text>
+  <text x="140.0" y="1156.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">&quot;Super entrecôte et les cannelés étaient</text>
+  <text x="140.0" y="1178.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">parfaits !&quot;</text>
+  <text x="140.0" y="1216.0" font-family="Inter" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Paul - 12/10/2026</text>
+  <rect x="528.0" y="1086.0" width="384.0" height="150" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="548.0" y="1122.0" font-family="Inter" font-size="22" font-weight="400" fill="#666666" text-anchor="start">★★★★☆</text>
+  <text x="548.0" y="1156.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">&quot;Menu de Noël très copieux et livré à</text>
+  <text x="548.0" y="1178.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">l&#x27;heure.&quot;</text>
+  <text x="548.0" y="1216.0" font-family="Inter" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Sophie - 12/10/2026</text>
+  <rect x="936.0" y="1086.0" width="384.0" height="150" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="956.0" y="1122.0" font-family="Inter" font-size="22" font-weight="400" fill="#666666" text-anchor="start">★★★★★</text>
+  <text x="956.0" y="1156.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">&quot;Le menu vegan a plu à tout le monde.&quot;</text>
+  <text x="956.0" y="1216.0" font-family="Inter" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Karim - 12/10/2026</text>
+  <rect id="Footer" x="0" y="1300.0" width="1440" height="230" rx="0" fill="#EEEEEE" stroke="#999999" stroke-width="1"/>
+  <text x="120" y="1350.0" font-family="Inter" font-size="20" font-weight="700" fill="#222222" text-anchor="start">Nos horaires</text>
+  <text x="120" y="1382.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Lundi : fermé</text>
+  <text x="120" y="1406.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Mardi - Jeudi : 9h - 18h</text>
+  <text x="120" y="1430.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Vendredi : 9h - 19h</text>
+  <text x="120" y="1454.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Samedi : 10h - 19h</text>
+  <text x="120" y="1478.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Dimanche : 10h - 13h</text>
+  <text x="720.0" y="1350.0" font-family="Inter" font-size="20" font-weight="700" fill="#222222" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="720.0" y="1382.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">12 rue Sainte-Catherine, Bordeaux</text>
+  <text x="720.0" y="1406.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start" text-decoration="underline">Mentions légales</text>
+  <text x="720.0" y="1430.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start" text-decoration="underline">Conditions générales de vente</text>
+</g>
+</svg>
