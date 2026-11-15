@@ -1,0 +1,51 @@
+digraph UC {
+  graph [rankdir=LR, fontname="DejaVu Sans", bgcolor="white", nodesep=0.18, ranksep=1.1, pad=0.2];
+  node  [fontname="DejaVu Sans", fontsize=10];
+  edge  [fontname="DejaVu Sans", fontsize=9, color="#555555", arrowhead=none];
+
+  // acteurs
+  node [shape=box, style="filled", fillcolor="#2C3E50", fontcolor="white", color="#2C3E50"];
+  Visiteur [label="«acteur»\nVisiteur", fontsize=12];
+  Utilisateur [label="«acteur»\nUtilisateur\n(client connecté)", fontsize=12];
+  Employe [label="«acteur»\nEmployé", fontsize=12];
+  Admin [label="«acteur»\nAdministrateur", fontsize=12];
+  Mail [fillcolor="#E67E22", color="#E67E22", fontcolor="#2b2b2b", label="«système externe»\nService mail\n(SMTP)", fontsize=12];
+
+  // héritage entre acteurs
+  Utilisateur -> Visiteur [arrowhead=empty, style=solid, color="#2C3E50", constraint=false];
+  Admin -> Employe [arrowhead=empty, style=solid, color="#2C3E50", constraint=false];
+
+  subgraph cluster_app {
+    label="Application Vite & Gourmand"; fontsize=13; fontname="DejaVu Serif";
+    style=rounded; color="#2C3E50"; penwidth=1.5;
+    node [shape=ellipse, style=filled, fillcolor="#F5F5F5", color="#2C3E50", fontcolor="#2b2b2b"];
+
+    v1 [label="Consulter l'accueil et les avis"];
+    v2 [label="Consulter et filtrer les menus"];
+    v3 [label="Voir le détail d'un menu"];
+    v4 [label="Créer un compte"];
+    v5 [label="Se connecter /\nréinitialiser le mot de passe"];
+    v6 [label="Contacter l'entreprise"];
+
+    u1 [label="Commander un menu"];
+    u2 [label="Suivre / modifier /\nannuler ses commandes"];
+    u3 [label="Modifier ses informations"];
+    u4 [label="Donner un avis"];
+
+    e1 [label="Gérer les commandes\n(statuts, annulation)"];
+    e2 [label="Gérer menus, plats\net horaires"];
+    e3 [label="Valider / refuser les avis"];
+
+    a1 [label="Créer / désactiver\nun compte employé"];
+    a2 [label="Voir les statistiques\net le chiffre d'affaires"];
+  }
+
+  Visiteur -> {v1 v2 v3 v4 v5 v6};
+  Utilisateur -> {u1 u2 u3 u4};
+  Employe -> {e1 e2 e3};
+  Admin -> {a1 a2};
+
+  // services mail
+  edge [style=dashed, color="#E67E22"];
+  {v4 v5 v6 u1 e1 a1} -> Mail;
+}

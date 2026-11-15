@@ -1,0 +1,20 @@
+sequenceDiagram
+    autonumber
+    actor V as Visiteur
+    participant N as Navigateur (menus.js)
+    participant A as API PHP (api/filtre_menus.php)
+    participant B as MySQL
+
+    V->>N: Ouvre la page "Nos menus"
+    N->>A: fetch GET /api/filtre_menus.php
+    A->>B: SELECT menus (requête préparée)
+    B-->>A: Liste des menus
+    A-->>N: JSON
+    N->>N: afficherMenus() crée les cartes
+    V->>N: Modifie un filtre (ex : thème = Noël)
+    N->>A: fetch GET ?theme=1&prix_max=...
+    A->>A: Ajoute les conditions WHERE selon les filtres remplis
+    A->>B: SELECT ... WHERE theme_id = :theme
+    B-->>A: Menus filtrés
+    A-->>N: JSON
+    N->>N: Mise à jour de la liste sans recharger la page
