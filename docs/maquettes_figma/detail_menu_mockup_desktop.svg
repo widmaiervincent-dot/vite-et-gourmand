@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1436" viewBox="0 0 1440 1436">
+<g id="Mockup - Detail menu - Desktop">
+  <rect width="1440" height="1436" fill="#FFFFFF"/>
+  <rect id="Navbar" x="0" y="0" width="1440" height="80" rx="0" fill="#2C3E50"/>
+  <text x="120" y="50" font-family="Poppins" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="1182.0" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Créer un compte</text>
+  <text x="1067.2" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Connexion</text>
+  <text x="970.8000000000001" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Contact</text>
+  <text x="856.0000000000001" y="46" font-family="Roboto" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Nos menus</text>
+  <text x="759.6000000000001" y="46" font-family="Roboto" font-size="16" font-weight="400" fill="#FFFFFF" text-anchor="start">Accueil</text>
+  <text x="120" y="110" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Nos menus  &gt;  Menu Réveillon</text>
+  <text x="120" y="178" font-family="Poppins" font-size="48" font-weight="700" fill="#2C3E50" text-anchor="start">Menu Réveillon</text>
+  <rect x="120" y="192" width="48.0" height="24" rx="12" fill="#5D6D7E"/>
+  <text x="144.0" y="209" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Noël</text>
+  <rect x="176.0" y="192" width="85.5" height="24" rx="12" fill="#1E8449"/>
+  <text x="218.75" y="209" font-family="Roboto" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Classique</text>
+  <rect x="120" y="236" width="1200" height="100" rx="4" fill="#FDEBD0" stroke="#E67E22" stroke-width="2"/>
+  <rect x="120" y="236" width="8" height="100" rx="0" fill="#E67E22"/>
+  <text x="144" y="268" font-family="Roboto" font-size="18" font-weight="700" fill="#333333" text-anchor="start">⚠ Conditions de ce menu</text>
+  <text x="144" y="296.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">A commander au minimum 2 semaines avant la prestation. Le foie gras doit être conservé au réfrigérateur (entre 0 et 4°C).</text>
+  <rect x="120" y="366" width="600.0" height="300" rx="4" fill="#D9D9D9"/>
+  <text x="420.0" y="521.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo 1</text>
+  <rect x="732.0" y="366" width="288.0" height="300" rx="4" fill="#D9D9D9"/>
+  <text x="876.0" y="521.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo 2</text>
+  <rect x="1032.0" y="366" width="288.0" height="300" rx="4" fill="#D9D9D9"/>
+  <text x="1176.0" y="521.0" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo 3</text>
+  <text x="120" y="730" font-family="Poppins" font-size="24" font-weight="700" fill="#2C3E50" text-anchor="start">Présentation</text>
+  <text x="120" y="754.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">Un menu de fête pour réunir toute la famille autour des grands classiques de Noël.</text>
+  <text x="120" y="822.0" font-family="Poppins" font-size="24" font-weight="700" fill="#2C3E50" text-anchor="start">Composition du menu</text>
+  <text x="120" y="858.0" font-family="Poppins" font-size="19" font-weight="700" fill="#2C3E50" text-anchor="start">Entrées</text>
+  <text x="120" y="888.0" font-family="Roboto" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Foie gras maison et chutney de figues</text>
+  <text x="120" y="912.0" font-family="Roboto" font-size="14" font-weight="400" fill="#BA4A00" text-anchor="start">Allergènes : Gluten</text>
+  <line x1="120" y1="928.0" x2="864.0" y2="928.0" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="120" y="954.0" font-family="Poppins" font-size="19" font-weight="700" fill="#2C3E50" text-anchor="start">Plats</text>
+  <text x="120" y="984.0" font-family="Roboto" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Dinde farcie aux marrons</text>
+  <text x="120" y="1008.0" font-family="Roboto" font-size="14" font-weight="400" fill="#BA4A00" text-anchor="start">Allergènes : Gluten, Fruits à coque</text>
+  <line x1="120" y1="1024.0" x2="864.0" y2="1024.0" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="120" y="1050.0" font-family="Poppins" font-size="19" font-weight="700" fill="#2C3E50" text-anchor="start">Desserts</text>
+  <text x="120" y="1080.0" font-family="Roboto" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Bûche chocolat praliné</text>
+  <text x="120" y="1104.0" font-family="Roboto" font-size="14" font-weight="400" fill="#BA4A00" text-anchor="start">Allergènes : Gluten, Lait, Oeufs, Fruits à coque</text>
+  <line x1="120" y1="1120.0" x2="864.0" y2="1120.0" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="904.0" y="706" width="416.0" height="290" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="928.0" y="750" font-family="Roboto" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Pour 6 personnes minimum</text>
+  <text x="928.0" y="798" font-family="Roboto" font-size="34" font-weight="700" fill="#333333" text-anchor="start">270,00 €</text>
+  <text x="928.0" y="828" font-family="Roboto" font-size="14" font-weight="400" fill="#777777" text-anchor="start">soit 45,00 € par personne</text>
+  <text x="928.0" y="862" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Stock : 10 commandes possibles</text>
+  <rect x="928.0" y="886" width="368.0" height="52" rx="6" fill="#BA4A00"/>
+  <text x="1112.0" y="918.3" font-family="Roboto" font-size="18" font-weight="600" fill="#FFFFFF" text-anchor="middle">Commander</text>
+  <text x="928.0" y="962.0" font-family="Roboto" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Pas connecté ? Il faudra se connecter ou créer un</text>
+  <text x="928.0" y="981.5" font-family="Roboto" font-size="13" font-weight="400" fill="#777777" text-anchor="start">compte.</text>
+  <rect id="Footer" x="0" y="1206.0" width="1440" height="230" rx="0" fill="#2C3E50"/>
+  <text x="120" y="1256.0" font-family="Poppins" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="start">Nos horaires</text>
+  <text x="120" y="1288.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Lundi : fermé</text>
+  <text x="120" y="1312.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Mardi - Jeudi : 9h - 18h</text>
+  <text x="120" y="1336.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Vendredi : 9h - 19h</text>
+  <text x="120" y="1360.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Samedi : 10h - 19h</text>
+  <text x="120" y="1384.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Dimanche : 10h - 13h</text>
+  <text x="720.0" y="1256.0" font-family="Poppins" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="720.0" y="1288.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">12 rue Sainte-Catherine, Bordeaux</text>
+  <text x="720.0" y="1312.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Mentions légales</text>
+  <text x="720.0" y="1336.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Conditions générales de vente</text>
+</g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="2344" viewBox="0 0 390 2344">
+<g id="Mockup - Accueil - iPhone 14">
+  <rect width="390" height="2344" fill="#FFFFFF"/>
+  <rect id="Navbar" x="0" y="0" width="390" height="64" rx="0" fill="#2C3E50"/>
+  <text x="20" y="40" font-family="Poppins" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="start">Vite &amp; Gourmand</text>
+  <rect x="340" y="22" width="30" height="3" rx="1" fill="#FFFFFF"/>
+  <rect x="340" y="31" width="30" height="3" rx="1" fill="#FFFFFF"/>
+  <rect x="340" y="40" width="30" height="3" rx="1" fill="#FFFFFF"/>
+  <rect x="20" y="94" width="350" height="300" rx="4" fill="#D9D9D9"/>
+  <text x="195.0" y="380" font-family="Roboto" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">image de fond (photo d&#x27;un buffet)</text>
+  <text x="195.0" y="214.0" font-family="Poppins" font-size="34" font-weight="700" fill="#2C3E50" text-anchor="middle">Vite &amp; Gourmand</text>
+  <text x="195.0" y="254.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="middle">Votre traiteur à Bordeaux depuis 25 ans</text>
+  <rect x="75.0" y="284.0" width="240" height="50" rx="6" fill="#E67E22"/>
+  <text x="195.0" y="314.6" font-family="Roboto" font-size="16" font-weight="600" fill="#1C1C1C" text-anchor="middle">Découvrir nos menus</text>
+  <text x="20" y="466" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Qui sommes-nous ?</text>
+  <text x="20" y="490.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">Vite &amp; Gourmand c&#x27;est l&#x27;histoire de Julie</text>
+  <text x="20" y="514.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">et José, deux passionnés de cuisine</text>
+  <text x="20" y="538.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">installés à Bordeaux depuis 25 ans. On</text>
+  <text x="20" y="562.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">prépare vos repas pour tous vos</text>
+  <text x="20" y="586.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">évènements : Noël en famille, Pâques,</text>
+  <text x="20" y="610.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">anniversaire ou séminaire d&#x27;entreprise.</text>
+  <text x="20" y="634.0" font-family="Roboto" font-size="16" font-weight="400" fill="#333333" text-anchor="start">Nos menus changent selon les saisons.</text>
+  <text x="20" y="720.0" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Une équipe de professionnels</text>
+  <rect x="20.0" y="744.0" width="350.0" height="170" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="40.0" y="764.0" width="48" height="48" rx="24" fill="#FDEBD0" stroke="#E67E22" stroke-width="1"/>
+  <text x="40.0" y="844.0" font-family="Poppins" font-size="19" font-weight="700" fill="#2C3E50" text-anchor="start">25 ans d&#x27;expérience</text>
+  <text x="40.0" y="872.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Plus de 25 ans à régaler les</text>
+  <text x="40.0" y="894.5" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Bordelais.</text>
+  <rect x="20.0" y="938.0" width="350.0" height="170" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="40.0" y="958.0" width="48" height="48" rx="24" fill="#FDEBD0" stroke="#E67E22" stroke-width="1"/>
+  <text x="40.0" y="1038.0" font-family="Poppins" font-size="19" font-weight="700" fill="#2C3E50" text-anchor="start">Produits frais</text>
+  <text x="40.0" y="1066.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Producteurs locaux et marché des</text>
+  <text x="40.0" y="1088.5" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Capucins.</text>
+  <rect x="20.0" y="1132.0" width="350.0" height="170" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="40.0" y="1152.0" width="48" height="48" rx="24" fill="#FDEBD0" stroke="#E67E22" stroke-width="1"/>
+  <text x="40.0" y="1232.0" font-family="Poppins" font-size="19" font-weight="700" fill="#2C3E50" text-anchor="start">Livraison soignée</text>
+  <text x="40.0" y="1260.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">A l&#x27;heure que vous voulez à Bordeaux</text>
+  <text x="40.0" y="1282.5" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">et autour.</text>
+  <text x="20" y="1378.0" font-family="Poppins" font-size="22" font-weight="700" fill="#2C3E50" text-anchor="start">Ce que pensent nos clients</text>
+  <rect x="20.0" y="1402.0" width="350.0" height="150" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="40.0" y="1438.0" font-family="Roboto" font-size="22" font-weight="400" fill="#E67E22" text-anchor="start">★★★★★</text>
+  <text x="40.0" y="1472.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">&quot;Super entrecôte et les cannelés</text>
+  <text x="40.0" y="1494.5" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">étaient parfaits !&quot;</text>
+  <text x="40.0" y="1532.0" font-family="Roboto" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Paul - 12/10/2026</text>
+  <rect x="20.0" y="1576.0" width="350.0" height="150" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="40.0" y="1612.0" font-family="Roboto" font-size="22" font-weight="400" fill="#E67E22" text-anchor="start">★★★★☆</text>
+  <text x="40.0" y="1646.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">&quot;Menu de Noël très copieux et livré à</text>
+  <text x="40.0" y="1668.5" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">l&#x27;heure.&quot;</text>
+  <text x="40.0" y="1706.0" font-family="Roboto" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Sophie - 12/10/2026</text>
+  <rect x="20.0" y="1750.0" width="350.0" height="150" rx="8" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="40.0" y="1786.0" font-family="Roboto" font-size="22" font-weight="400" fill="#E67E22" text-anchor="start">★★★★★</text>
+  <text x="40.0" y="1820.0" font-family="Roboto" font-size="15" font-weight="400" fill="#333333" text-anchor="start">&quot;Le menu vegan a plu à tout le monde.&quot;</text>
+  <text x="40.0" y="1880.0" font-family="Roboto" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Karim - 12/10/2026</text>
+  <rect id="Footer" x="0" y="1964.0" width="390" height="380" rx="0" fill="#2C3E50"/>
+  <text x="20" y="2014.0" font-family="Poppins" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="start">Nos horaires</text>
+  <text x="20" y="2046.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Lundi : fermé</text>
+  <text x="20" y="2070.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Mardi - Jeudi : 9h - 18h</text>
+  <text x="20" y="2094.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Vendredi : 9h - 19h</text>
+  <text x="20" y="2118.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Samedi : 10h - 19h</text>
+  <text x="20" y="2142.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">Dimanche : 10h - 13h</text>
+  <text x="20" y="2204.0" font-family="Poppins" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="20" y="2236.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start">12 rue Sainte-Catherine, Bordeaux</text>
+  <text x="20" y="2260.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Mentions légales</text>
+  <text x="20" y="2284.0" font-family="Roboto" font-size="15" font-weight="400" fill="#FFFFFF" text-anchor="start" text-decoration="underline">Conditions générales de vente</text>
+</g>
+</svg>

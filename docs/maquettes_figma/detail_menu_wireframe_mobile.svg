@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1964" viewBox="0 0 390 1964">
+<g id="Wireframe - Detail menu - iPhone 14">
+  <rect width="390" height="1964" fill="#FFFFFF"/>
+  <rect id="Navbar" x="0" y="0" width="390" height="64" rx="0" fill="#EEEEEE" stroke="#999999" stroke-width="1"/>
+  <text x="20" y="40" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Vite &amp; Gourmand</text>
+  <rect x="340" y="22" width="30" height="3" rx="1" fill="#222222"/>
+  <rect x="340" y="31" width="30" height="3" rx="1" fill="#222222"/>
+  <rect x="340" y="40" width="30" height="3" rx="1" fill="#222222"/>
+  <text x="20" y="94" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Nos menus  &gt;  Menu Réveillon</text>
+  <text x="20" y="146" font-family="Inter" font-size="32" font-weight="700" fill="#222222" text-anchor="start">Menu Réveillon</text>
+  <rect x="20" y="160" width="48.0" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="44.0" y="177" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Noël</text>
+  <rect x="76.0" y="160" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="118.75" y="177" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <rect x="20" y="204" width="350" height="160" rx="4" fill="#F2F2F2" stroke="#666666" stroke-width="2"/>
+  <rect x="20" y="204" width="8" height="160" rx="0" fill="#666666"/>
+  <text x="44" y="236" font-family="Inter" font-size="18" font-weight="700" fill="#333333" text-anchor="start">⚠ Conditions de ce menu</text>
+  <text x="44" y="264.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">A commander au minimum 2 semaines</text>
+  <text x="44" y="286.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">avant la prestation. Le foie gras</text>
+  <text x="44" y="309.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">doit être conservé au réfrigérateur</text>
+  <text x="44" y="331.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">(entre 0 et 4°C).</text>
+  <rect x="20" y="394" width="350" height="200" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20" y1="394" x2="370" y2="594" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370" y1="394" x2="20" y2="594" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="195.0" y="499.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo 1</text>
+  <rect x="20" y="606" width="169.0" height="120" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20" y1="606" x2="189.0" y2="726" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="189.0" y1="606" x2="20" y2="726" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="104.5" y="671.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo 2</text>
+  <rect x="201.0" y="606" width="169.0" height="120" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="201.0" y1="606" x2="370.0" y2="726" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370.0" y1="606" x2="201.0" y2="726" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="285.5" y="671.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo 3</text>
+  <text x="20" y="780" font-family="Inter" font-size="24" font-weight="700" fill="#222222" text-anchor="start">Présentation</text>
+  <text x="20" y="804.0" font-family="Inter" font-size="16" font-weight="400" fill="#333333" text-anchor="start">Un menu de fête pour réunir toute la</text>
+  <text x="20" y="828.0" font-family="Inter" font-size="16" font-weight="400" fill="#333333" text-anchor="start">famille autour des grands classiques de</text>
+  <text x="20" y="852.0" font-family="Inter" font-size="16" font-weight="400" fill="#333333" text-anchor="start">Noël.</text>
+  <text x="20" y="920.0" font-family="Inter" font-size="24" font-weight="700" fill="#222222" text-anchor="start">Composition du menu</text>
+  <text x="20" y="956.0" font-family="Inter" font-size="19" font-weight="700" fill="#222222" text-anchor="start">Entrées</text>
+  <text x="20" y="986.0" font-family="Inter" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Foie gras maison et chutney de figues</text>
+  <text x="20" y="1010.0" font-family="Inter" font-size="14" font-weight="400" fill="#666666" text-anchor="start">Allergènes : Gluten</text>
+  <line x1="20" y1="1026.0" x2="370" y2="1026.0" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="20" y="1052.0" font-family="Inter" font-size="19" font-weight="700" fill="#222222" text-anchor="start">Plats</text>
+  <text x="20" y="1082.0" font-family="Inter" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Dinde farcie aux marrons</text>
+  <text x="20" y="1106.0" font-family="Inter" font-size="14" font-weight="400" fill="#666666" text-anchor="start">Allergènes : Gluten, Fruits à coque</text>
+  <line x1="20" y1="1122.0" x2="370" y2="1122.0" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="20" y="1148.0" font-family="Inter" font-size="19" font-weight="700" fill="#222222" text-anchor="start">Desserts</text>
+  <text x="20" y="1178.0" font-family="Inter" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Bûche chocolat praliné</text>
+  <text x="20" y="1202.0" font-family="Inter" font-size="14" font-weight="400" fill="#666666" text-anchor="start">Allergènes : Gluten, Lait, Oeufs, Fruits à coque</text>
+  <line x1="20" y1="1218.0" x2="370" y2="1218.0" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="20" y="1254.0" width="350" height="290" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="44" y="1298.0" font-family="Inter" font-size="16" font-weight="600" fill="#333333" text-anchor="start">Pour 6 personnes minimum</text>
+  <text x="44" y="1346.0" font-family="Inter" font-size="34" font-weight="700" fill="#333333" text-anchor="start">270,00 €</text>
+  <text x="44" y="1376.0" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">soit 45,00 € par personne</text>
+  <text x="44" y="1410.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Stock : 10 commandes possibles</text>
+  <rect x="44" y="1434.0" width="302" height="52" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="1466.3" font-family="Inter" font-size="18" font-weight="600" fill="#222222" text-anchor="middle">Commander</text>
+  <text x="44" y="1510.0" font-family="Inter" font-size="13" font-weight="400" fill="#777777" text-anchor="start">Pas connecté ? Il faudra se connecter ou</text>
+  <text x="44" y="1529.5" font-family="Inter" font-size="13" font-weight="400" fill="#777777" text-anchor="start">créer un compte.</text>
+  <rect id="Footer" x="0" y="1584.0" width="390" height="380" rx="0" fill="#EEEEEE" stroke="#999999" stroke-width="1"/>
+  <text x="20" y="1634.0" font-family="Inter" font-size="20" font-weight="700" fill="#222222" text-anchor="start">Nos horaires</text>
+  <text x="20" y="1666.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Lundi : fermé</text>
+  <text x="20" y="1690.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Mardi - Jeudi : 9h - 18h</text>
+  <text x="20" y="1714.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Vendredi : 9h - 19h</text>
+  <text x="20" y="1738.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Samedi : 10h - 19h</text>
+  <text x="20" y="1762.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Dimanche : 10h - 13h</text>
+  <text x="20" y="1824.0" font-family="Inter" font-size="20" font-weight="700" fill="#222222" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="20" y="1856.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">12 rue Sainte-Catherine, Bordeaux</text>
+  <text x="20" y="1880.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start" text-decoration="underline">Mentions légales</text>
+  <text x="20" y="1904.0" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start" text-decoration="underline">Conditions générales de vente</text>
+</g>
+</svg>

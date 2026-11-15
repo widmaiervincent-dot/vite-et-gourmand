@@ -1,0 +1,22 @@
+digraph D {
+  graph [rankdir=LR, fontname="DejaVu Sans", bgcolor="white", pad=0.2, nodesep=0.5];
+  node  [fontname="DejaVu Sans", fontsize=10, shape=box, style="rounded,filled", fillcolor="#F5F5F5", color="#2C3E50"];
+  edge  [fontname="DejaVu Sans", fontsize=9, color="#555555"];
+
+  nav [label="Navigateur\n(ordinateur / mobile)"];
+  dev [label="Mon PC\n(VS Code, Git)"];
+  gh  [label="GitHub\nmain / develop / feature/*"];
+  subgraph cluster_fly { label="fly.io (région Paris)"; color="#2C3E50"; style=rounded;
+    app [label="Conteneur Docker\nPHP 8.3 + Apache\n(code de l'appli)", fillcolor="#2C3E50", fontcolor="white"];
+  }
+  mysql [label="MySQL\n(Aiven - offre gratuite)"];
+  mongo [label="MongoDB Atlas\n(cluster M0 gratuit)"];
+  smtp  [label="Serveur SMTP\n(Mailtrap / Brevo)"];
+
+  dev -> gh [label="git push"];
+  dev -> app [label="fly deploy"];
+  nav -> app [label="HTTPS"];
+  app -> mysql [label="PDO"];
+  app -> mongo [label="driver mongodb"];
+  app -> smtp [label="PHPMailer"];
+}

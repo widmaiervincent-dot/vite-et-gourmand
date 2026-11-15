@@ -1,0 +1,22 @@
+sequenceDiagram
+    autonumber
+    actor E as Employé
+    participant S as Serveur PHP (commande_gerer.php)
+    participant B as MySQL
+    participant M as MongoDB
+    participant Mail as Serveur mail
+    actor C as Client
+
+    E->>S: POST nouveau statut + CSRF
+    S->>S: verifierRole(employe, admin)
+    S->>B: UPDATE commande SET statut
+    S->>B: INSERT commande_suivi (date + heure)
+    S->>M: updateOne statut
+    alt statut = "en attente du retour de matériel"
+        S->>Mail: Mail rappel 10 jours ouvrés / 600 €
+        Mail-->>C: Notification
+    else statut = "terminée"
+        S->>Mail: Mail invitation à donner un avis
+        Mail-->>C: Notification
+    end
+    S-->>E: Message "Statut mis à jour"

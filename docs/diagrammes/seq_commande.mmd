@@ -1,0 +1,30 @@
+sequenceDiagram
+    autonumber
+    actor U as Utilisateur
+    participant N as Navigateur (JS)
+    participant S as Serveur PHP (commande.php)
+    participant B as MySQL
+    participant M as MongoDB
+    participant E as Serveur mail
+
+    U->>N: Clic sur "Commander" (page détail du menu)
+    N->>S: GET /commande.php?menu=3
+    S->>S: Vérifie la session (connecté ?)
+    alt pas connecté
+        S-->>N: Redirection vers /connexion.php
+    else connecté
+        S->>B: SELECT infos client + menus disponibles
+        B-->>S: Données
+        S-->>N: Formulaire pré-rempli (menu sélectionné)
+    end
+    U->>N: Saisit adresse, date, heure, nb personnes
+    N->>N: commande.js recalcule le prix (affichage)
+    U->>N: Clic sur "Valider la commande"
+    N->>S: POST formulaire + token CSRF
+    S->>S: Vérifie CSRF + données (minimum personnes, date...)
+    S->>B: SELECT menu (prix réel)
+    S->>S: calculerPrix() (réduction 10%, livraison)
+    S->>B: BEGIN, INSERT commande, INSERT commande_suivi, UPDATE stock, COMMIT
+    S->>M: insertOne (statistiques_commandes)
+    S->>E: Mail de confirmation
+    S-->>N: Redirection vers Mon espace + message

@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="3920" viewBox="0 0 390 3920">
+<g id="Wireframe - Nos menus - iPhone 14">
+  <rect width="390" height="3920" fill="#FFFFFF"/>
+  <rect id="Navbar" x="0" y="0" width="390" height="64" rx="0" fill="#EEEEEE" stroke="#999999" stroke-width="1"/>
+  <text x="20" y="40" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Vite &amp; Gourmand</text>
+  <rect x="340" y="22" width="30" height="3" rx="1" fill="#222222"/>
+  <rect x="340" y="31" width="30" height="3" rx="1" fill="#222222"/>
+  <rect x="340" y="40" width="30" height="3" rx="1" fill="#222222"/>
+  <text x="20" y="134" font-family="Inter" font-size="30" font-weight="700" fill="#222222" text-anchor="start">Nos menus</text>
+  <rect x="20" y="158" width="350" height="330" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="36" y="188" font-family="Inter" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Prix max (€)</text>
+  <rect x="36" y="196" width="153.0" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="48" y="222" font-family="Inter" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">ex : 200</text>
+  <text x="201.0" y="188" font-family="Inter" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Nb personnes</text>
+  <rect x="201.0" y="196" width="153.0" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="213.0" y="222" font-family="Inter" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">ex : 8</text>
+  <text x="36" y="258" font-family="Inter" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Fourchette de prix (€)</text>
+  <rect x="36" y="266" width="153.0" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="48" y="292" font-family="Inter" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">min</text>
+  <rect x="201.0" y="266" width="153.0" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="213.0" y="292" font-family="Inter" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">max</text>
+  <text x="36" y="328" font-family="Inter" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Thème</text>
+  <rect x="36" y="336" width="153.0" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="48" y="362" font-family="Inter" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">Tous  ▼</text>
+  <text x="201.0" y="328" font-family="Inter" font-size="14" font-weight="600" fill="#333333" text-anchor="start">Régime</text>
+  <rect x="201.0" y="336" width="153.0" height="40" rx="4" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <text x="213.0" y="362" font-family="Inter" font-size="14" font-weight="400" fill="#9E9E9E" text-anchor="start">Tous  ▼</text>
+  <rect x="36" y="402" width="318" height="44" rx="4" fill="#FFFFFF" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="429.25" font-family="Inter" font-size="15" font-weight="600" fill="#222222" text-anchor="middle">Effacer les filtres</text>
+  <text x="20" y="512" font-family="Inter" font-size="15" font-weight="400" fill="#555555" text-anchor="start">6 menus trouvés</text>
+  <rect x="20.0" y="536" width="350.0" height="470" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="20.0" y="536" width="350.0" height="210" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20.0" y1="536" x2="370.0" y2="746" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370.0" y1="536" x2="20.0" y2="746" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="195.0" y="646.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="40.0" y="766" width="48.0" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="64.0" y="783" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Noël</text>
+  <rect x="96.0" y="766" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="138.75" y="783" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <text x="40.0" y="826" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Menu Réveillon</text>
+  <text x="40.0" y="858.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Un menu de fête autour des grands</text>
+  <text x="40.0" y="880.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">classiques de Noël.</text>
+  <text x="40.0" y="908" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 6 personnes</text>
+  <text x="40.0" y="938" font-family="Inter" font-size="22" font-weight="700" fill="#333333" text-anchor="start">270,00 €</text>
+  <rect x="40.0" y="954" width="310.0" height="40" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="979.6" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="middle">Voir le détail</text>
+  <rect x="20.0" y="1030" width="350.0" height="470" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="20.0" y="1030" width="350.0" height="210" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20.0" y1="1030" x2="370.0" y2="1240" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370.0" y1="1030" x2="20.0" y2="1240" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="195.0" y="1140.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="40.0" y="1260" width="63.0" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="71.5" y="1277" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Pâques</text>
+  <rect x="111.0" y="1260" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="153.75" y="1277" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <text x="40.0" y="1320" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Menu Pâques Gourmand</text>
+  <text x="40.0" y="1352.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Agneau de 7 heures et chocolat pour</text>
+  <text x="40.0" y="1374.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Pâques.</text>
+  <text x="40.0" y="1402" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 4 personnes</text>
+  <text x="40.0" y="1432" font-family="Inter" font-size="22" font-weight="700" fill="#333333" text-anchor="start">160,00 €</text>
+  <rect x="40.0" y="1448" width="310.0" height="40" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="1473.6" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="middle">Voir le détail</text>
+  <rect x="20.0" y="1524" width="350.0" height="470" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="20.0" y="1524" width="350.0" height="210" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20.0" y1="1524" x2="370.0" y2="1734" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370.0" y1="1524" x2="20.0" y2="1734" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="195.0" y="1634.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="40.0" y="1754" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="82.75" y="1771" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <rect x="133.5" y="1754" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="176.25" y="1771" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <text x="40.0" y="1814" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Menu Bordelais</text>
+  <text x="40.0" y="1846.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Entrecôte bordelaise et cannelés.</text>
+  <text x="40.0" y="1896" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 2 personnes</text>
+  <text x="40.0" y="1926" font-family="Inter" font-size="22" font-weight="700" fill="#333333" text-anchor="start">70,00 €</text>
+  <rect x="40.0" y="1942" width="310.0" height="40" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="1967.6" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="middle">Voir le détail</text>
+  <rect x="20.0" y="2018" width="350.0" height="470" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="20.0" y="2018" width="350.0" height="210" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20.0" y1="2018" x2="370.0" y2="2228" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370.0" y1="2018" x2="20.0" y2="2228" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="195.0" y="2128.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="40.0" y="2248" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="82.75" y="2265" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <rect x="133.5" y="2248" width="93.0" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="180.0" y="2265" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Végétarien</text>
+  <text x="40.0" y="2308" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Menu Végétarien</text>
+  <text x="40.0" y="2340.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Des produits frais du marché, sans</text>
+  <text x="40.0" y="2362.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">viande.</text>
+  <text x="40.0" y="2390" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 2 personnes</text>
+  <text x="40.0" y="2420" font-family="Inter" font-size="22" font-weight="700" fill="#333333" text-anchor="start">56,00 €</text>
+  <rect x="40.0" y="2436" width="310.0" height="40" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="2461.6" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="middle">Voir le détail</text>
+  <rect x="20.0" y="2512" width="350.0" height="470" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="20.0" y="2512" width="350.0" height="210" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20.0" y1="2512" x2="370.0" y2="2722" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370.0" y1="2512" x2="20.0" y2="2722" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="195.0" y="2622.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="40.0" y="2742" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="82.75" y="2759" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Évènement</text>
+  <rect x="133.5" y="2742" width="55.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="161.25" y="2759" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Vegan</text>
+  <text x="40.0" y="2802" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Menu Vegan Évènement</text>
+  <text x="40.0" y="2834.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Un menu 100% végétal pour vos</text>
+  <text x="40.0" y="2856.5" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">évènements.</text>
+  <text x="40.0" y="2884" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 10 personnes</text>
+  <text x="40.0" y="2914" font-family="Inter" font-size="22" font-weight="700" fill="#333333" text-anchor="start">350,00 €</text>
+  <rect x="40.0" y="2930" width="310.0" height="40" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="2955.6" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="middle">Voir le détail</text>
+  <rect x="20.0" y="3006" width="350.0" height="470" rx="0" fill="#FFFFFF" stroke="#999999" stroke-width="1"/>
+  <rect x="20.0" y="3006" width="350.0" height="210" rx="0" fill="#D9D9D9" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="20.0" y1="3006" x2="370.0" y2="3216" stroke="#AAAAAA" stroke-width="1"/>
+  <line x1="370.0" y1="3006" x2="20.0" y2="3216" stroke="#AAAAAA" stroke-width="1"/>
+  <text x="195.0" y="3116.0" font-family="Inter" font-size="14" font-weight="400" fill="#7A7A7A" text-anchor="middle">photo du menu</text>
+  <rect x="40.0" y="3236" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="82.75" y="3253" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <rect x="133.5" y="3236" width="85.5" height="24" rx="12" fill="#E0E0E0" stroke="#999999" stroke-width="1"/>
+  <text x="176.25" y="3253" font-family="Inter" font-size="12" font-weight="600" fill="#333333" text-anchor="middle">Classique</text>
+  <text x="40.0" y="3296" font-family="Inter" font-size="22" font-weight="700" fill="#222222" text-anchor="start">Menu Famille</text>
+  <text x="40.0" y="3328.0" font-family="Inter" font-size="15" font-weight="400" fill="#333333" text-anchor="start">Un repas simple et généreux.</text>
+  <text x="40.0" y="3378" font-family="Inter" font-size="14" font-weight="400" fill="#777777" text-anchor="start">Minimum 4 personnes</text>
+  <text x="40.0" y="3408" font-family="Inter" font-size="22" font-weight="700" fill="#333333" text-anchor="start">120,00 €</text>
+  <rect x="40.0" y="3424" width="310.0" height="40" rx="4" fill="#BDBDBD" stroke="#333333" stroke-width="1"/>
+  <text x="195.0" y="3449.6" font-family="Inter" font-size="16" font-weight="600" fill="#222222" text-anchor="middle">Voir le détail</text>
+  <rect id="Footer" x="0" y="3540" width="390" height="380" rx="0" fill="#EEEEEE" stroke="#999999" stroke-width="1"/>
+  <text x="20" y="3590" font-family="Inter" font-size="20" font-weight="700" fill="#222222" text-anchor="start">Nos horaires</text>
+  <text x="20" y="3622" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Lundi : fermé</text>
+  <text x="20" y="3646" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Mardi - Jeudi : 9h - 18h</text>
+  <text x="20" y="3670" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Vendredi : 9h - 19h</text>
+  <text x="20" y="3694" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Samedi : 10h - 19h</text>
+  <text x="20" y="3718" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">Dimanche : 10h - 13h</text>
+  <text x="20" y="3780" font-family="Inter" font-size="20" font-weight="700" fill="#222222" text-anchor="start">Vite &amp; Gourmand</text>
+  <text x="20" y="3812" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start">12 rue Sainte-Catherine, Bordeaux</text>
+  <text x="20" y="3836" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start" text-decoration="underline">Mentions légales</text>
+  <text x="20" y="3860" font-family="Inter" font-size="15" font-weight="400" fill="#222222" text-anchor="start" text-decoration="underline">Conditions générales de vente</text>
+</g>
+</svg>
